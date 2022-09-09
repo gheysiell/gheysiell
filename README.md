@@ -1,6 +1,6 @@
 <div style="width: 100%; height: 100%;">
   <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%;"/>
-  <div style="width: 100%; height: 100%; position: absolute;">
+  <div style="width: 100%; height: 100%;">
     ### Olá, me chamo Gheysiell Santana 👋
 
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
