@@ -1,7 +1,8 @@
 ### Olá, me chamo Gheysiell Santana 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gheysiell.santanna/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gheysiellsanta1)
 
 ![Gheysiell GitHub stats](https://github-readme-stats.vercel.app/api?username=gheysiell&show_icons=true&theme=dracula)
 
