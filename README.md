@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 100%;">
+<div style="width: 100%; height: 100%; position: absolute;">
 <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%; position: absolute;"/>
 <div style="width: 100%; height: 100%; position: absolute;">
 ### Olá, me chamo Gheysiell Santana 👋
