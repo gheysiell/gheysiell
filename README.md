@@ -18,7 +18,4 @@
       <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     </div><br/>
 
-    Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.  
-<div style="width: 100%; height: 100%;">
-  <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%;"/>      
-</div>  
+    Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.
