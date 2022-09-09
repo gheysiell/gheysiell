@@ -6,6 +6,10 @@
 
 ![Gheysiell GitHub stats](https://github-readme-stats.vercel.app/api?username=gheysiell&show_icons=true&theme=dracula)
 
+<div style="width: 100%; height: 100%;">
+  <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg"/>
+</div>
+
 ## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block;"><br/>
