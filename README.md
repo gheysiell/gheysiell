@@ -21,6 +21,6 @@
 </div><br/>
 
 Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.
-</div>    
 <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%;"/>      
+</div>    
 </div>  
