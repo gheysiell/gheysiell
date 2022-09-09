@@ -1,6 +1,5 @@
 <div style="width: 100%; height: 100%;">
-  <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%;"/>
-  <div style="width: 100%; height: 100%;">
+  <img alt="Background loading..." src="https://github.com/gheysiell/images/blob/master/O81zBai.jpg" style="width: 100%; height: 100%;"/>  
     ### Olá, me chamo Gheysiell Santana 👋
 
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
@@ -21,6 +20,5 @@
       <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     </div><br/>
 
-    Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.
-  </div>
+    Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.  
 </div>  
