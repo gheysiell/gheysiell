@@ -1,4 +1,7 @@
-### Olá, me chamo Gheysiell Santana 👋
+<h2 style="width: 100%; display: flex !important; flex-direction: row !important;">    
+    <img alt="loading animation..." src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" style="width: 25px;"> Hello Word, my name is Gheysiell Santana
+   <img alt="loading animation..." src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" style="width: 25px;">
+</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gheysiell-santana-33b021210/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gheysiellsanta1)
@@ -6,7 +9,7 @@
 
 ![Gheysiell GitHub stats](https://github-readme-stats.vercel.app/api?username=gheysiell&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no dia a dia
+## Technologies I use on a daily basis <img alt="loading animation..." src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" style="width: 25px;">
 
 <div style="display: inline_block;"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,4 +20,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
     <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias que trabalho, sempre buscando aprender algo novo.
+Passionate about technology, I try to be as updated as possible in the technologies I work with, always looking to learn something new.
