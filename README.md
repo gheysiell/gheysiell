@@ -7,8 +7,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gheysiellsanta1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gheysiell.santanna/)
 
-![Gheysiell GitHub stats](https://github-readme-stats.vercel.app/api?username=gheysiell&show_icons=true&theme=dracula)
-
 ## Technologies I use on a daily basis <img alt="loading animation..." src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" style="width: 25px;">
 
 <div style="display: inline_block;"><br/>
@@ -20,7 +18,5 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
     <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>    
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gheysiell&layout=compact&hide=pascal)](https://github.com/gheysiell/github-readme-stats)
 
 Passionate about technology, I try to be as updated as possible in the technologies I work with, always looking to learn something new.
