@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
 
 <h3 style="width: 100%; display: flex !important; flex-direction: row !important;">    
     <img alt="loading animation..." src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" style="width: 25px;"> Hello Word, I'm Gheysiell Santana
