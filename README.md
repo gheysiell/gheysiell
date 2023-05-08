@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/gheysiellsanta1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gheysiell.santanna/)
 
-Passionate about technology, I try to be as updated as possible in the technologies I work with, always looking to learn something new.
+Atualmente estou trabalhando com flutter e javascript full-stack, apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias com as quais trabalho, buscando sempre aprender algo novo e padrões melhores.
 
 <h3>Technologies I use on a daily basis</h3>
 <div style="display: inline_block;"><br/>    
