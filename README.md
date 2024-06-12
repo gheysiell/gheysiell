@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/gheysiellsanta1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gheysiell.santanna/)
 
-Bem vindo ao meu GitHub ! sou Gheysiell Santana, tenho 20 anos e mais de 4 anos de experiência com desenvolvimento de software, atualmente estou trabalhando com Flutter e TypeScript full-stack, sou sócio na empresa ConnSoft, a qual foi fundada em 2023 e tem como objetivo fazer software sob medida, também faço vídeos no canal da ConnSoft no YouTube. Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias com as quais trabalho, buscando sempre aprender algo novo e padrões melhores, meus hobbies são tocar flugelhorn e praticar muay thai.
+Bem vindo ao meu GitHub ! sou Gheysiell Santana, tenho 21 anos e mais de 5 anos de experiência com desenvolvimento de software, atualmente estou trabalhando com Flutter e TypeScript full-stack, sou sócio na empresa ConnSoft, a qual foi fundada em 2023 e tem como objetivo fazer software sob medida, também faço vídeos no canal da ConnSoft no YouTube. Apaixonado por tecnologia, procuro estar o mais atualizado possível nas tecnologias com as quais trabalho, buscando sempre aprender algo novo e padrões melhores, meus hobbies são tocar flugelhorn e praticar muay thai.
 
 <h3>Tecnologias que eu uso no meu dia a dia</h3>
 <div style="display: inline_block;"><br/>    
